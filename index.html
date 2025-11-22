@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RS HUB -灵构脚本</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+  <body>
+    <div class="container">
+        <header data-aos>
+            <h1>RS Hub</h1>
+            <p class="subtitle">Roblox 脚本</p>
+        </header>
+
+        <div class="stats-bar">
+            <div class="stat-big" data-aos data-aos-delay="100">
+                <div class="stat-number" id="exec-count">🟢</div>
+                <div class="stat-label">脚本状态</div>
+            </div>
+            <div class="stat-big" data-aos data-aos-delay="10">
+                <div class="stat-number" id="user-count">0+</div>
+                <div class="stat-label">付费用户</div>
+            </div>
+        </div>
+
+        <section id="features">
+            <h2 data-aos>亮点功能</h2>
+            <div class="features-grid">
+                <div class="feature-item" data-aos data-aos-delay="100"><div class="feature-title">全注入器支持</div><div class="feature-desc">兼容Delta Krnl Zenith等双端 热门执行器</div></div>
+                <div class="feature-item" data-aos data-aos-delay="200"><div class="feature-title">服务器支持</div><div class="feature-desc">功能支持 数十个热门服务器</div></div>
+                <div class="feature-item" data-aos data-aos-delay="300"><div class="feature-title">极简美观 UI</div><div class="feature-desc">使用Wind Syde obsidian UI</div></div>
+                <div class="feature-item" data-aos data-aos-delay="400"><div class="feature-title">为什么选择灵构(RS Hub)?</div><div class="feature-desc">持续更新 永不跑路 每个服务器功能都会认真对待 不会有功能垃圾的凑数服务器</div></div>
+            </div>
+        </section>
+
+        <section id="updates">
+            <h2 data-aos>更新日志</h2>
+            <div class="changelog-container" id="changelog-list">
+                <div style="text-align:center;color:#666;padding:1.5rem;">加载中...</div>
+            </div>
+        </section>
+
+        <section id="pricing">
+            <h2 data-aos>价格方案</h2>
+            <div class="pricing" data-aos data-aos-delay="200">
+                <div class="price-main">￥20/永久</div>
+                <div class="price-sub">一次性支付 · 终身授权 </div>
+                <p style="color:#888;margin:1rem 0 .8rem;font-size:.9rem;">仅支持微信付款</p>
+                <button class="buy-now-btn" onclick="buyNow()">立刻购买</button>
+            </div>
+        </section>
+
+        <section id="group" class="group-section">
+            <h2 data-aos>加入官方群聊(QQ)</h2>
+            <p style="color:#aaa;margin-bottom:.8rem;" data-aos data-aos-delay="100">获取免费版更多活动</p>
+            <input type="text" id="discord-link" class="discord-input" value="996155023" readonly data-aos data-aos-delay="200">
+            <button class="copy-btn" onclick="copyLink()" data-aos data-aos-delay="300" style="margin-top:1.5rem;">复制群号</button>
+        </section>
+
+        <section id="group" class="group-section">
+            <h2 data-aos>加入官方DC(Discord)</h2>
+            <p style="color:#aaa;margin-bottom:.8rem;" data-aos data-aos-delay="100">获取免费版更多活动</p>
+            <input type="text" id="discord-link" class="discord-input" value="https://discord.gg/pvpdkxhJ7Y" readonly data-aos data-aos-delay="200">
+            <button class="copy-btn" onclick="copyLink()" data-aos data-aos-delay="300" style="margin-top:1.5rem;">复制DC</button>
+        </section>
+        <footer><p>©2025 RS Hub </p></footer>
+    </div>
+<script src="Script.js"></script>
+  </body>
+</html>
