@@ -1,1 +1,79 @@
-function _0x3858(){const _0x37dac9=['then','style','addEventListener','div','已复制!','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22changelog-content\x22>','writeText','2507520sMqXyT','className','target','clipboard','content','querySelectorAll','json','date','97300nhOTCa','copyLink','[data-aos]','286956sltzBI','1704048UnqEyI','881301LstFPD','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22text-align:center;color:#f66;padding:1.5rem;font-size:.85rem;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20暂无日志\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>','observe','1165GRuhhs','forEach','background','innerHTML','click','user-count','setAttribute','8rMWEUc','changelogs.json','1733517jLpRnG','.buy-now-btn','DOMContentLoaded','classList','getElementById','value','success-rate','.copy-btn','add','data-aos-delay','select','center','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','changelog-item','changelog-list','exec-count','956xqAIfj','querySelector','buyNow','scrollIntoView','createElement','linear-gradient(90deg,#10b981,#34d399)','discord-link','group','7wzrxNS','aos-animate','textContent'];_0x3858=function(){return _0x37dac9;};return _0x3858();}const _0xb7b502=_0x5590;(function(_0x182284,_0x4a2c2a){const _0x408267=_0x5590,_0x3c5ca0=_0x182284();while(!![]){try{const _0x5ca2f8=-parseInt(_0x408267(0xea))/0x1+-parseInt(_0x408267(0xed))/0x2+parseInt(_0x408267(0xef))/0x3+parseInt(_0x408267(0xd0))/0x4*(-parseInt(_0x408267(0xf2))/0x5)+-parseInt(_0x408267(0xee))/0x6*(parseInt(_0x408267(0xd8))/0x7)+parseInt(_0x408267(0xf9))/0x8*(parseInt(_0x408267(0xfb))/0x9)+parseInt(_0x408267(0xe2))/0xa;if(_0x5ca2f8===_0x4a2c2a)break;else _0x3c5ca0['push'](_0x3c5ca0['shift']());}catch(_0x1fc540){_0x3c5ca0['push'](_0x3c5ca0['shift']());}}}(_0x3858,0x263f3));async function loadChangelog(){const _0xfd02f7=_0x5590;try{const _0x50e63c=await fetch(_0xfd02f7(0xfa));if(!_0x50e63c['ok'])throw new Error();const _0x540cb7=await _0x50e63c[_0xfd02f7(0xe8)](),_0x31713c=document[_0xfd02f7(0xc4)](_0xfd02f7(0xce));_0x31713c[_0xfd02f7(0xf5)]='',_0x540cb7[_0xfd02f7(0xf3)]((_0x58c92a,_0x287bdf)=>{const _0x1f6eba=_0xfd02f7,_0x5d820a=document[_0x1f6eba(0xd4)](_0x1f6eba(0xde));_0x5d820a[_0x1f6eba(0xe3)]=_0x1f6eba(0xcd),_0x5d820a[_0x1f6eba(0xf8)]('data-aos',''),_0x5d820a[_0x1f6eba(0xf8)](_0x1f6eba(0xc9),0x64+_0x287bdf*0x50),_0x5d820a[_0x1f6eba(0xf5)]='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22changelog-date\x22>'+_0x58c92a[_0x1f6eba(0xe9)]+_0x1f6eba(0xe0)+_0x58c92a[_0x1f6eba(0xe6)]+_0x1f6eba(0xcc),_0x31713c['appendChild'](_0x5d820a);}),document[_0xfd02f7(0xe7)](_0xfd02f7(0xec))[_0xfd02f7(0xf3)](_0x156048=>observer['observe'](_0x156048));}catch(_0x2fc8e6){document[_0xfd02f7(0xc4)]('changelog-list')['innerHTML']=_0xfd02f7(0xf0);}}function buyNow(){const _0x2d746b=_0x5590;document[_0x2d746b(0xc4)](_0x2d746b(0xd7))[_0x2d746b(0xd3)]({'behavior':'smooth','block':_0x2d746b(0xcb)}),setTimeout(()=>{const _0x1b1075=_0x2d746b,_0x2f514e=document[_0x1b1075(0xc4)](_0x1b1075(0xd6));_0x2f514e[_0x1b1075(0xca)](),_0x2f514e['setSelectionRange'](0x0,0x1869f),navigator[_0x1b1075(0xe5)][_0x1b1075(0xe1)](_0x2f514e[_0x1b1075(0xc5)])[_0x1b1075(0xdb)](()=>{const _0x12c6e4=_0x1b1075,_0x3d75a2=document['querySelector']('.copy-btn'),_0x55ba27=_0x3d75a2[_0x12c6e4(0xda)];_0x3d75a2[_0x12c6e4(0xda)]=_0x12c6e4(0xdf),_0x3d75a2[_0x12c6e4(0xdc)][_0x12c6e4(0xf4)]=_0x12c6e4(0xd5),setTimeout(()=>{const _0x3632d6=_0x12c6e4;_0x3d75a2[_0x3632d6(0xda)]=_0x55ba27,_0x3d75a2[_0x3632d6(0xdc)]['background']='';},0x7d0);});},0x320);}function _0x5590(_0x4e7bd1,_0x28a3b3){const _0x3858c9=_0x3858();return _0x5590=function(_0x559037,_0x2b148f){_0x559037=_0x559037-0xc2;let _0x1d60f6=_0x3858c9[_0x559037];return _0x1d60f6;},_0x5590(_0x4e7bd1,_0x28a3b3);}function copyLink(){const _0x18e16a=_0x5590,_0x8c7ed4=document[_0x18e16a(0xc4)](_0x18e16a(0xd6));_0x8c7ed4['select'](),_0x8c7ed4['setSelectionRange'](0x0,0x1869f),navigator[_0x18e16a(0xe5)][_0x18e16a(0xe1)](_0x8c7ed4[_0x18e16a(0xc5)])['then'](()=>{const _0x299eb2=_0x18e16a,_0x2b6d2d=document[_0x299eb2(0xd1)]('.copy-btn'),_0xfdc3c9=_0x2b6d2d[_0x299eb2(0xda)];_0x2b6d2d[_0x299eb2(0xda)]=_0x299eb2(0xdf),_0x2b6d2d[_0x299eb2(0xdc)][_0x299eb2(0xf4)]=_0x299eb2(0xd5),setTimeout(()=>{const _0x75bf9e=_0x299eb2;_0x2b6d2d[_0x75bf9e(0xda)]=_0xfdc3c9,_0x2b6d2d['style'][_0x75bf9e(0xf4)]='';},0x7d0);});}const observer=new IntersectionObserver(_0x5d3916=>{const _0x5e61de=_0x5590;_0x5d3916[_0x5e61de(0xf3)](_0x835943=>{const _0x2f7d11=_0x5e61de;if(_0x835943['isIntersecting'])_0x835943[_0x2f7d11(0xe4)][_0x2f7d11(0xc3)][_0x2f7d11(0xc8)](_0x2f7d11(0xd9));});},{'threshold':0.1});document[_0xb7b502(0xdd)](_0xb7b502(0xc2),()=>{const _0x4c3890=_0xb7b502;setTimeout(()=>{const _0x506d7b=_0x5590,_0x29c4cc=document[_0x506d7b(0xc4)](_0x506d7b(0xcf)),_0x6a718c=document[_0x506d7b(0xc4)](_0x506d7b(0xf7)),_0x209294=document[_0x506d7b(0xc4)](_0x506d7b(0xc6));if(_0x29c4cc)animateNumber(_0x29c4cc,0x6b123,0x898);if(_0x6a718c)animateNumber(_0x6a718c,0xc8,0x898);if(_0x209294)animateNumber(_0x209294,99.9,0x898,!![]);},0x190),loadChangelog(),document[_0x4c3890(0xe7)](_0x4c3890(0xec))[_0x4c3890(0xf3)](_0x4bd922=>observer[_0x4c3890(0xf1)](_0x4bd922));const _0x2ec65b=document['querySelector'](_0x4c3890(0xfc));if(_0x2ec65b)_0x2ec65b[_0x4c3890(0xdd)](_0x4c3890(0xf6),buyNow);const _0x45553e=document[_0x4c3890(0xd1)](_0x4c3890(0xc7));if(_0x45553e)_0x45553e['addEventListener']('click',copyLink);}),window[_0xb7b502(0xd2)]=buyNow,window[_0xb7b502(0xeb)]=copyLink;
+
+async function loadChangelog() {
+    try {
+        const res = await fetch('changelogs.json');
+        if (!res.ok) throw new Error();
+        const logs = await res.json();
+        const container = document.getElementById('changelog-list');
+        container.innerHTML = '';
+        logs.forEach((log, i) => {
+            const item = document.createElement('div');
+            item.className = 'changelog-item';
+            item.setAttribute('data-aos', '');
+            item.setAttribute('data-aos-delay', 100 + i * 80);
+            item.innerHTML = `
+                <div class="changelog-date">${log.date}</div>
+                <div class="changelog-content">${log.content}</div>
+            `;
+            container.appendChild(item);
+        });
+        document.querySelectorAll('[data-aos]').forEach(el => observer.observe(el));
+    } catch (e) {
+        document.getElementById('changelog-list').innerHTML = `
+            <div style="text-align:center;color:#f66;padding:1.5rem;font-size:.85rem;">
+                暂无日志
+            </div>`;
+    }
+}
+
+function buyNow() {
+    document.getElementById('group').scrollIntoView({ behavior: 'smooth', block: 'center' });
+    setTimeout(() => {
+        const link = document.getElementById('discord-link');
+        link.select(); link.setSelectionRange(0, 99999);
+        navigator.clipboard.writeText(link.value).then(() => {
+            const btn = document.querySelector('.copy-btn');
+            const txt = btn.textContent;
+            btn.textContent = '已复制!'; btn.style.background = 'linear-gradient(90deg,#10b981,#34d399)';
+            setTimeout(() => { btn.textContent = txt; btn.style.background = ''; }, 2000);
+        });
+    }, 800);
+}
+
+// 
+function copyLink() {
+    const link = document.getElementById('discord-link');
+    link.select(); link.setSelectionRange(0, 99999);
+    navigator.clipboard.writeText(link.value).then(() => {
+        const btn = document.querySelector('.copy-btn');
+        const txt = btn.textContent;
+        btn.textContent = '已复制!'; btn.style.background = 'linear-gradient(90deg,#10b981,#34d399)';
+        setTimeout(() => { btn.textContent = txt; btn.style.background = ''; }, 2000);
+    });
+}
+
+const observer = new IntersectionObserver(es => {
+    es.forEach(e => { if (e.isIntersecting) e.target.classList.add('aos-animate'); });
+}, { threshold: .1 });
+
+document.addEventListener('DOMContentLoaded', () => {
+    setTimeout(() => {
+        const execEl = document.getElementById('exec-count');
+        const userEl = document.getElementById('user-count');
+        const successEl = document.getElementById('success-rate');
+        if (execEl) animateNumber(execEl, 438563, 2200);
+        if (userEl) animateNumber(userEl, 200, 2200);
+        if (successEl) animateNumber(successEl, 99.9, 2200, true);
+    }, 400);
+
+    loadChangelog();
+    document.querySelectorAll('[data-aos]').forEach(el => observer.observe(el));
+
+    const buyBtn = document.querySelector('.buy-now-btn');
+    if (buyBtn) buyBtn.addEventListener('click', buyNow);
+    const copyBtn = document.querySelector('.copy-btn');
+    if (copyBtn) copyBtn.addEventListener('click', copyLink);
+});
+
+window.buyNow = buyNow;
+window.copyLink = copyLink;
