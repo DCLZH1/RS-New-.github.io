@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>RS HUB - 灵构脚本</title>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="sytles.css">
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="container">
@@ -13,14 +13,20 @@
             <h1>RS HUB</h1>
             <p class="subtitle">制作好的Roblox脚本</p>
         </header>
-
         <div class="stats-bar">
             <div class="stat-big" data-aos data-aos-delay="100">
                 <div class="stat-number" id="exec-count">正常工作</div>
                 <div class="stat-label">脚本状态</div>
             </div>
         </div>
-
+    <section id="scripts">
+        <h2 data-aos>精选脚本</h2>
+            <div class="scripts-carousel" data-aos data-aos-delay="200">
+            <button class="carousel-btn carousel-btn-prev" id="prev-btn" aria-label="上一个">&#8249;</button>
+            <div class="scripts-track" id="scripts-track"></div>
+            <button class="carousel-btn carousel-btn-next" id="next-btn" aria-label="下一个">&#8250;</button>
+        </div>
+    </section>
         <section id="features">
             <h2 data-aos>亮点功能</h2>
             <div class="features-grid">
@@ -49,14 +55,32 @@
 
         <section id="group" class="group-section">
             <h2 data-aos>加入官方群聊(QQ)</h2>
-            <p style="color:#aaa;margin-bottom:.8rem;" data-aos data-aos-delay="100">获取免费版更多活动</p>
+            <p style="color:#aaa;margin-bottom:.8rem;" data-aos data-aos-delay="100"></p>
             <input type="text" id="discord-link" class="discord-input" value="996155023" readonly data-aos data-aos-delay="200">
             <button class="copy-btn" data-aos data-aos-delay="300" style="margin-top:1.5rem;">复制链接</button>
         </section>
-
+    <div id="purchase-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-btn">&times;</span>
+            <h3>如何购买？</h3>
+            <p style="margin:1.2rem 0;color:#ccc;">请按以下步骤完成支付：</p>
+            <ol style="text-align:left;margin:1.2rem 0;padding-left:1.5rem;color:#bbb;">
+                <li>保存下方微信收款码</li>
+                <li>打开微信 → 扫一扫 → 从相册选取二维码</li>
+                <li>支付 <strong style="color:#4ade80">20元</strong>(备注: 脚本)</li>
+                <li>付款后联系群主获取脚本</li>
+            </ol>
+            <div class="qrcode-container">
+                <img src="Assets/vx.jpg" id="wechat-qrcode">
+            </div>
+            <p style="font-size:.85rem;color:#ff6b6b;margin-top:1.2rem;">⚠️ 付款后务必加群向群主提供付款截图!</p>
+        </div>
+    </div>
         <footer><p>©2025 RS HUB</p></footer>
     </div>
 
+
     <script src="Script.js"></script>
+
 </body>
 </html>
