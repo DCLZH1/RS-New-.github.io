@@ -2,6 +2,11 @@
   {
     "image": "/GameJpg/SS.jpg",
     "title": "SS脚本(樱花摊位脚本)",
+    "desc": "",
+  },
+  {
+    "image": "/GameJpg/Hunter.jpg",
+    "title": "Hunter脚本(猎人脚本)",
     "desc": ""
   }
 ]
