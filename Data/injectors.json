@@ -28,6 +28,15 @@
       "discord": "https://discord.com/invite/7Es9WeTF4K"
     },
     {
+      "id": "Bunni",
+      "name": "Bunni(还没复活)",
+      "price": "密钥系统",
+      "unc": "UNC 99%",
+      "platform": "Windows",
+      "website": "https://discord.com/invite/9DPW2G22cF",
+      "discord": "https://discord.com/invite/9DPW2G22cF"
+    },
+    {
         "id": "Delta",
         "name": "Delta",
         "price": "密钥系统",
@@ -40,10 +49,19 @@
       "id": "Codex",
       "name": "Codex",
       "price": "密钥系统",
-      "unc": "UNC 99%",
-      "platform": "安卓&IOS",
+      "unc": "UNC 98%",
+      "platform": "安卓",
       "website": "https://codex.lol/",
       "discord": "https://discord.com/invite/codexlol"
+    },
+    {
+      "id": "Cryptic",
+      "name": "Cryptic",
+      "price": "密钥系统",
+      "unc": "UNC 98%",
+      "platform": "安卓",
+      "website": "https://getcryptic.net/",
+      "discord": "https://discord.gg/qM3WZhQShn"
     }
   ]
 }
