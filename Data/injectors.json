@@ -1,0 +1,49 @@
+{
+  "injectors": [
+    {
+      "id": "potassium",
+      "name": "Potassium",
+      "price": "永久22.99美元",
+      "unc": "UNC 99%",
+      "platform": "Windows",
+      "website": "https://potassium.pro",
+      "discord": "https://discord.gg/potassium"
+    },
+    {
+      "id": "seliware",
+      "name": "Seliware",
+      "price": "每周3.99美元",
+      "unc": "UNC 99%",
+      "platform": "Windows",
+      "website": "https://seliware.com/",
+      "discord": "https://discord.com/invite/nzEggEE9vx"
+    },
+    {
+      "id": "volcano",
+      "name": "Volcano",
+      "price": "每周5.99美元",
+      "unc": "UNC 97%",
+      "platform": "Windows",
+      "website": "https://volcano.wtf/",
+      "discord": "https://discord.com/invite/7Es9WeTF4K"
+    },
+    {
+        "id": "Delta",
+        "name": "Delta",
+        "price": "密钥系统",
+        "unc": "UNC 99%",
+        "platform": "安卓&IOS",
+        "website": "https://deltaexploits.gg/",
+        "discord": "https://discord.com/invite/deltax"
+    },
+    {
+      "id": "Codex",
+      "name": "Codex",
+      "price": "密钥系统",
+      "unc": "UNC 99%",
+      "platform": "安卓&IOS",
+      "website": "https://codex.lol/",
+      "discord": "https://discord.com/invite/codexlol"
+    }
+  ]
+}
