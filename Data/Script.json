@@ -1,0 +1,22 @@
+[
+    {
+        "img": "./GameJpg/SS.jpg",
+        "name": "樱花摊位"
+    },
+    {
+        "img": "./GameJpg/Forsaken.jpg",
+        "name": "Forsaken"
+    },
+    {
+        "img": "./GameJpg/Hunter.jpg",
+        "name": "Hunter"
+    },
+    {
+        "img": "./GameJpg/HS.jpg",
+        "name": "天堂站立"
+    },
+    {
+        "img": "./GameJpg/黑暗欺骗.jpg",
+        "name": "黑暗欺骗"
+    }
+]
